@@ -4,6 +4,7 @@ table {
             border-collapse: collapse;
             background-color: yellow;
             margin: 20px 0;
+			border: 1px solid rgb(0,0,0);
 			
         }
         th, td {
